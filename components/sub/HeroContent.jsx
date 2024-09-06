@@ -44,7 +44,7 @@ import Image from 'next/image'
             variants={slideInFromLeft(0.8)}
             className="text-lg text-gray-400 my-5 max-w-[600px]"
           >
-            I'm a Full Stack Developer skilled in building dynamic web applications with technologies like React.js, Node.js, and MySQL. With a strong foundation in both front-end and back-end development, I excel at creating scalable solutions and integrating intelligent features to deliver impactful user experiences.
+            I&apos;m a Full Stack Developer skilled in building dynamic web applications with technologies like React.js, Node.js, and MySQL. With a strong foundation in both front-end and back-end development, I excel at creating scalable solutions and integrating intelligent features to deliver impactful user experiences.
           </motion.p>
           <motion.a
             variants={slideInFromLeft(1)}
